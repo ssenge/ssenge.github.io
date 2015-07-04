@@ -721,3 +721,16 @@
 }
 
 .hideme {}
+
+iframe#twitter-widget-0.twitter-timeline.twitter-timeline-rendered,
+iframe#twitter-widget-1.twitter-timeline.twitter-timeline-rendered 
+{
+width: 750px;
+padding: 15px 0 0 10px;
+margin: 0px;
+font: normal normal normal 9px/10px "Helvetica Neue",Arial,sans-serif;
+}
+	.heightAsInterestBox {
+		height: 407px;
+	}
+
