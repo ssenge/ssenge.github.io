@@ -6,5 +6,12 @@
     color: #696969;
     font-weight: 300; }
 
+
+ .root.timeline.twitter-timeline {
+  width: 100% !important; 
+ }
  
+ #twitter-widget-0 { 
+      width: 100% !important; 
+    }
 
