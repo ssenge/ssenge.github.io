@@ -720,16 +720,6 @@
 	border-left:  thin solid #AAAAAA;
 }
 
-.hideme {}
-
-iframe#twitter-widget-0.twitter-timeline.twitter-timeline-rendered,
-iframe#twitter-widget-1.twitter-timeline.twitter-timeline-rendered 
-{
-width: 750px;
-padding: 15px 0 0 10px;
-margin: 0px;
-font: normal normal normal 12px/14px "Helvetica Neue",Arial,sans-serif;
-}
 	.heightAsInterestBox {
 		height: 407px;
 	}
